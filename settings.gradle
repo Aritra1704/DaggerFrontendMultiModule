@@ -1,0 +1,2 @@
+include ':app', ':moduleext', ':modulemfe'
+rootProject.name='DaggerFrontendMultiModule'
